@@ -1,0 +1,25 @@
+{
+  "name": "redux-com-javascript-puro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kallif003/redux-com-javascript-puro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kallif003/redux-com-javascript-puro/issues"
+  },
+  "homepage": "https://github.com/kallif003/redux-com-javascript-puro#readme",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.8.2",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1"
+  }
+}
